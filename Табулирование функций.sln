@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Табулирование функций", "Табулирование функций\Табулирование функций.csproj", "{92EA441C-321D-4981-A50A-61DE56E797FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92EA441C-321D-4981-A50A-61DE56E797FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92EA441C-321D-4981-A50A-61DE56E797FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92EA441C-321D-4981-A50A-61DE56E797FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92EA441C-321D-4981-A50A-61DE56E797FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FC01E09-0854-4AE1-A1A9-6D1D12503195}
+	EndGlobalSection
+EndGlobal
